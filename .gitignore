@@ -1,0 +1,17 @@
+# Basilisk preprocessor output (generated C, large)
+*.s
+
+# Basilisk test checksums (auto-generated)
+*.tst
+
+# Basilisk auto-generated Makefiles
+Makefile.deps
+Makefile.tests
+
+# Compiled binaries and run directories
+binkmanSimple/
+binkmanViscosity/
+
+# Generic build artifacts
+*.o
+*.a
